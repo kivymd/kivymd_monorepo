@@ -25,9 +25,9 @@
     <mapping directory="$PROJECT_DIR$/internal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kivymd-extensions/.github-kivymd-extensions" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kivymd-extensions/KivyMD_Extensions" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kivymd-extensions/akivymd" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kivymd-extensions/extension_template" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kivymd-extensions/filemanager" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kivymd-extensions/sweetalert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/extensions/akivymd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/extensions/filemanager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/extensions/sweetalert" vcs="Git" />
   </component>
 </project>
