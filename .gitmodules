@@ -1,0 +1,37 @@
+# Git submodules
+
+# kivymd
+[submodule "KivyMD"]
+	path = KivyMD
+	url = https://github.com/kivymd/KivyMD.git
+[submodule "KivyMD_Collection"]
+	path = KivyMD_Collection
+	url = https://github.com/kivymd/KivyMD_Collection.git
+[submodule "internal"]
+	path = internal
+	url = https://github.com/kivymd/internal.git
+[submodule ".github-kivymd"]
+	path = .github-kivymd
+	url = https://github.com/kivymd/.github.git
+
+# kivymd-extensions
+[submodule "kivymd-extensions/KivyMD_Extensions"]
+	path = kivymd-extensions/KivyMD_Extensions
+	url = https://github.com/kivymd-extensions/KivyMD_Extensions.git
+[submodule "kivymd-extensions/extensions_template"]
+	path = kivymd-extensions/extensions_template
+	url = https://github.com/kivymd-extensions/extensions_template.git
+[submodule "kivymd-extensions/.github-kivymd-extensions"]
+	path = kivymd-extensions/.github-kivymd-extensions
+	url = https://github.com/kivymd-extensions/.github.git
+
+# kivymd-extensions - packages
+[submodule "kivymd-extensions/sweetalert"]
+	path = kivymd-extensions/sweetalert
+	url = https://github.com/kivymd-extensions/sweetalert.git
+[submodule "kivymd-extensions/akivymd"]
+	path = kivymd-extensions/akivymd
+	url = https://github.com/kivymd-extensions/akivymd.git
+[submodule "kivymd-extensions/filemanager"]
+	path = kivymd-extensions/filemanager
+	url = https://github.com/kivymd-extensions/filemanager.git
