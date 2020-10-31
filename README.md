@@ -11,6 +11,20 @@ This repository contains all [@kivymd](https://github.com/kivymd) and
 [@kivymd-extensions](https://github.com/kivymd-extensions) repositories except
 private and large projects.
 
+## Useful commands
+
+```bash
+# Checkout main branch on all submodules
+git submodule foreach 'git checkout main || git checkout master'
+
+# Sync main branch with remote
+git submodule update --rebase --recursive
+
+# Add your fork as remote
+cd KivyMD
+git remote add fork https://github.com/<USERNAME>/KivyMD.git
+```
+
 ## License
 
 [MIT License](LICENSE).
