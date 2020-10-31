@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CommitMessageInspectionProfile">
+    <profile version="1.0">
+      <inspection_tool class="BodyLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+      <inspection_tool class="SubjectBodySeparation" enabled="true" level="WARNING" enabled_by_default="true" />
+      <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true">
+        <option name="RIGHT_MARGIN" value="50" />
+      </inspection_tool>
+    </profile>
+  </component>
+  <component name="GitSharedSettings">
+    <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+      <list>
+        <option value="master" />
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.github-kivymd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KivyMD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KivyMD_Collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/.github-kivymd-extensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/KivyMD_Extensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/akivymd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/extension_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/filemanager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kivymd-extensions/sweetalert" vcs="Git" />
+  </component>
+</project>
