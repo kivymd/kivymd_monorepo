@@ -1,0 +1,28 @@
+# Directories and files that cannot be commited to git
+# Also see .gitignore files in submodules
+
+# Editors
+.vscode
+.ipynb_checkpoints
+*.swp
+# PyCharm
+.idea/*
+!/.idea/*.iml
+!/.idea/modules.xml
+!/.idea/vcs.xml
+!/.idea/runConfigurations
+
+# Environments
+venv
+.venv
+env
+.env
+.python-version
+
+# Temp / Cache
+cache
+.cache
+temp
+.temp
+.pytest_cache
+.coverage
