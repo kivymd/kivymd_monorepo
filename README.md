@@ -5,17 +5,19 @@ you can clone this repository.
 
 ```bash
 git clone --recurse-submodules https://github.com/kivymd/kivymd_monorepo.git
+cd kivymd_monorepo
+git submodule foreach --recursive 'git checkout main || git checkout master'
 ```
 
 This repository contains all [@kivymd](https://github.com/kivymd) and
 [@kivymd-extensions](https://github.com/kivymd-extensions) repositories except
-private and large projects.
+private projects.
 
 ## Useful commands
 
 ```bash
 # Checkout main branch on all submodules
-git submodule foreach 'git checkout main || git checkout master'
+git submodule foreach --recursive 'git checkout main || git checkout master'
 
 # Sync main branch with remote
 git submodule update --rebase --recursive

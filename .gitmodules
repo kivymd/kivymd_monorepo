@@ -17,6 +17,11 @@
 	path = .github-kivymd
 	url = https://github.com/kivymd/.github.git
 	branch = main
+[submodule "kivymd/storage"]
+	path = storage
+	url = https://github.com/kivymd/storage.git
+	branch = main
+	shallow = true
 
 # kivymd-extensions
 [submodule "kivymd-extensions/KivyMD_Extensions"]
