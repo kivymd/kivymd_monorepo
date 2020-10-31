@@ -18,9 +18,9 @@
 [submodule "kivymd-extensions/KivyMD_Extensions"]
 	path = kivymd-extensions/KivyMD_Extensions
 	url = https://github.com/kivymd-extensions/KivyMD_Extensions.git
-[submodule "kivymd-extensions/extensions_template"]
-	path = kivymd-extensions/extensions_template
-	url = https://github.com/kivymd-extensions/extensions_template.git
+[submodule "kivymd-extensions/extension_template"]
+	path = kivymd-extensions/extension_template
+	url = https://github.com/kivymd-extensions/extension_template.git
 [submodule "kivymd-extensions/.github"]
 	path = kivymd-extensions/.github-kivymd-extensions
 	url = https://github.com/kivymd-extensions/.github.git
