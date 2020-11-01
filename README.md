@@ -31,7 +31,7 @@ git remote add fork https://github.com/<USERNAME>/KivyMD.git
 
 ## Tools
 
-### [development_install.py]development_install.py)
+### [development_install.py](development_install.py)
 
 Run `python development_install.py` to install all Python packages inside this
 monorepo in development mode (editable mode).
