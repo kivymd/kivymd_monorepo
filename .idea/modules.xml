@@ -3,14 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KivyMD/.idea/KivyMD.iml" filepath="$PROJECT_DIR$/KivyMD/.idea/KivyMD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KivyMD/demos/kitchen_sink/.idea/kitchen_sink.iml" filepath="$PROJECT_DIR$/KivyMD/demos/kitchen_sink/.idea/kitchen_sink.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/kivymd_monorepo.iml" filepath="$PROJECT_DIR$/.idea/kivymd_monorepo.iml" />
       <module fileurl="file://$PROJECT_DIR$/KivyMD_Collection/.idea/KivyMD_Collection.iml" filepath="$PROJECT_DIR$/KivyMD_Collection/.idea/KivyMD_Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/KivyMD_Extensions/.idea/KivyMD_Extensions.iml" filepath="$PROJECT_DIR$/kivymd-extensions/KivyMD_Extensions/.idea/KivyMD_Extensions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/extension_template/.idea/extension_template.iml" filepath="$PROJECT_DIR$/kivymd-extensions/extension_template/.idea/extension_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/extensions/akivymd/.idea/akivymd.iml" filepath="$PROJECT_DIR$/kivymd-extensions/extensions/akivymd/.idea/akivymd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/extensions/sweetalert/.idea/sweetalert.iml" filepath="$PROJECT_DIR$/kivymd-extensions/extensions/sweetalert/.idea/sweetalert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/extension_template/.idea/extension_template.iml" filepath="$PROJECT_DIR$/kivymd-extensions/extension_template/.idea/extension_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/extensions/filemanager/.idea/filemanager.iml" filepath="$PROJECT_DIR$/kivymd-extensions/extensions/filemanager/.idea/filemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KivyMD/demos/crane/.idea/crane.iml" filepath="$PROJECT_DIR$/KivyMD/demos/crane/.idea/crane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KivyMD/demos/fortnightly/.idea/fortnightly.iml" filepath="$PROJECT_DIR$/KivyMD/demos/fortnightly/.idea/fortnightly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KivyMD/demos/kitchen_sink/.idea/kitchen_sink.iml" filepath="$PROJECT_DIR$/KivyMD/demos/kitchen_sink/.idea/kitchen_sink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KivyMD/demos/rally/.idea/rally.iml" filepath="$PROJECT_DIR$/KivyMD/demos/rally/.idea/rally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KivyMD/demos/shrine/.idea/shrine.iml" filepath="$PROJECT_DIR$/KivyMD/demos/shrine/.idea/shrine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kivymd_monorepo.iml" filepath="$PROJECT_DIR$/.idea/kivymd_monorepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kivymd-extensions/extensions/sweetalert/.idea/sweetalert.iml" filepath="$PROJECT_DIR$/kivymd-extensions/extensions/sweetalert/.idea/sweetalert.iml" />
     </modules>
   </component>
 </project>
